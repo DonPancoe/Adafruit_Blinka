@@ -120,10 +120,10 @@ LED_USR3 = pin.USR3
 # SCLK_1 = pin.D21
 # SCK_1 = pin.D21
 
-SDA1 = pin.I2C1_SDA  # P9_17
-SCL1 = pin.I2C1_SCL  # P9_18
-SDA2 = pin.I2C2_SDA  # P9_19
-SCL2 = pin.I2C2_SCL  # P9_20
+SCL1 = pin.I2C1_SCL  # P9_17
+SDA1 = pin.I2C1_SDA  # P9_18
+SCL2 = pin.I2C2_SCL  # P9_19
+SDA2 = pin.I2C2_SDA  # P9_20
 
 # Refer to header default pin modes
 # http://beagleboard.org/static/images/cape-headers.png
